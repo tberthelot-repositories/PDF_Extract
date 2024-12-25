@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/pdf_extract.dir/link.d CMakeFiles/pdf_extract.dir/main.cpp.o CMakeFiles/pdf_extract.dir/pdffile.cpp.o -o pdf_extract   -L/usr/libs  -Wl,-rpath,/usr/libs: /usr/lib/libpoppler-qt6.so /usr/lib/libQt6Gui.so.6.8.1 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.8.1

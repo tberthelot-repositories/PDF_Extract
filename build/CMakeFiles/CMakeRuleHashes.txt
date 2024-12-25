@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a7db0b6ed85caf8d516945d6b1b153d8 pdf_extract_autogen/timestamp
